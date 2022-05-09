@@ -1,0 +1,4 @@
+[submodule "OCA/odoo-pim"]
+	path = OCA/odoo-pim
+	url = git@github.com:OCA/odoo-pim.git
+	branch = 14.0
